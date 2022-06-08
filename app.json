@@ -1,0 +1,11 @@
+{
+  "name": "microservice-gateway-haluk-inf",
+
+  "buildpacks":
+  [
+    {
+      "url": "heroku/gradle"
+    }
+  ]
+}
+
