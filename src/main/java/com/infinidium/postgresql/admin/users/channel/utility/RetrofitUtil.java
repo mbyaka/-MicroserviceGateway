@@ -1,7 +1,7 @@
 package com.infinidium.postgresql.admin.users.channel.utility;
 
 import com.google.gson.JsonElement;
-import com.sha.gateway.utility.Util;
+import com.infinidium.postgresql.admin.users.utility.Util;
 import lombok.extern.slf4j.Slf4j;
 import retrofit2.Call;
 import retrofit2.Response;

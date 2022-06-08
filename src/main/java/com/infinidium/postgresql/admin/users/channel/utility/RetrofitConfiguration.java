@@ -1,8 +1,8 @@
 package com.infinidium.postgresql.admin.users.channel.utility;
 
 import com.google.gson.Gson;
-import com.sha.gateway.channel.service.ProductServiceCallable;
-import com.sha.gateway.channel.service.TransactionServiceCallable;
+import com.infinidium.postgresql.admin.users.channel.service.ProductServiceCallable;
+import com.infinidium.postgresql.admin.users.channel.service.TransactionServiceCallable;
 import okhttp3.Credentials;
 import okhttp3.OkHttpClient;
 import org.springframework.beans.factory.annotation.Value;

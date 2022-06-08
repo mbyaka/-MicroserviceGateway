@@ -1,6 +1,6 @@
 package com.infinidium.postgresql.admin.users.security.utility;
 
-import com.sha.gateway.security.jwt.JWTAuthorizationFilter;
+import com.infinidium.postgresql.admin.users.security.jwt.JWTAuthorizationFilter;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
